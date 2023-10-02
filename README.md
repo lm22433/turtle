@@ -90,7 +90,7 @@ and these are also exactly the values that inhabit the Haskell type `[Integer]`.
 
   1. Get the code from this repository by clicking on the green "<> Code" button above, and choosing whichever method you are most comfortable with.  If you are using a lab machine, then this simplest way is using git in a terminal:
       ```text
-        $ git clone ...
+        $ git clone https://github.com/uob-coms20007/turtle.git
       ```
       Then navigate to inside this directory and run `ghci Compiler.hs`.
       ```text
